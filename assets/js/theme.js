@@ -83,6 +83,7 @@ let applyTheme = () => {
   }
 };
 
+
 let setHighlight = (theme) => {
   if (theme == "dark") {
     document.getElementById("highlight_theme_light").media = "none";
