@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description: 
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 **I have served as chair, co-chair, or organizer at the following conferences, workshops, and events.**

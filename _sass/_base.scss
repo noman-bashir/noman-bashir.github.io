@@ -13,15 +13,26 @@ hr {
 }
 
 table {
+  border-collapse: collapse; 
   td, th {
     color: var(--global-text-color);
   }
-  td {
-    font-size: 1rem;
+  td div{
+    margin-top: -12px;
+    margin-bottom: -12px;
+    margin-right: -10px;
+    border-spacing: 0;
+    font-size: 15px;
+  }
+  th div{
+    margin-top: -10px;
+    margin-bottom: -10px;
+    margin-right: -10px;
   }
 }
 
 a, table.table a {
+  border-collapse: collapse; 
   color: var(--global-theme-color);
   &:hover {
     color: var(--global-theme-color);

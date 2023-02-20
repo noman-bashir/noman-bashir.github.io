@@ -1,0 +1,215 @@
+- title: "Systems, Cloud Computing, and General Computer Science"
+
+- dates: 
+  - 01/12/2023
+  title: >
+    <strong>ATC</strong>
+  readings:
+    <a href="https://www.usenix.org/conference/atc23" target="_blank">https://www.usenix.org/conference/atc23</a>
+
+- dates: 
+  - 01/24/2023
+  title: >
+    <strong>ICDCS</strong>
+  readings:
+    <a href="https://icdcs2023.icdcs.org/" target="_blank">https://icdcs2023.icdcs.org/</a>
+
+- dates: 01/27/2023
+  title: >
+    <strong>HPDC</strong>
+  readings:
+    <a href="https://www.hpdc.org/2023/" target="_blank">https://www.hpdc.org/2023/</a>
+
+- dates: 02/06/2023
+  title: >
+    <strong>FAccT</strong>
+  readings:
+    <a href="https://facctconference.org/2023/" target="_blank">https://facctconference.org/2023/</a>
+
+
+- dates: <strong>03/05/2023</strong>
+  title: >
+    <strong>CLOUD</strong>
+  readings:
+    <a href="https://conferences.computer.org/cloud/2023/" target="_blank">https://conferences.computer.org/cloud/2023/</a>
+
+- dates: <strong>03/20/2023</strong>
+  title: >
+    <strong>IC2E</strong>
+  readings:
+    <a href="https://conferences.computer.org/IC2E/2023/index.html" target="_blank">https://conferences.computer.org/IC2E/2023/index.html</a>
+
+- dates: 
+  - 03/31/2022
+  - 07/07/2022
+  - 10/20/2022
+  title: >
+    <strong>ASPLOS</strong>
+  readings:
+    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
+
+
+- dates: <strong>04/06/2023</strong>
+  title: >
+    <strong>SC</strong>
+  readings:
+    <a href="https://sc23.supercomputing.org/" target="_blank">https://sc23.supercomputing.org/</a>
+
+- dates: <strong>04/17/2023</strong>
+  title: >
+    <strong>SOSP</strong>
+  readings:
+    <a href="https://sosp2023.mpi-sws.org/" target="_blank">https://sosp2023.mpi-sws.org/</a>
+
+- dates: 
+  - <strong>05/04/2023</strong>
+  - <strong>09/14/2023</strong>
+  title: >
+    <strong>NSDI</strong>
+  readings:
+    <a href="https://www.usenix.org/conference/nsdi24/" target="_blank">https://www.usenix.org/conference/nsdi24/</a>
+
+- dates: 
+  - 05/18/2022
+  - 10/19/2022
+  title: >
+    <strong>EuroSys</strong>
+  readings:
+    <a href="https://2023.eurosys.org/index.html" target="_blank">https://2023.eurosys.org/index.html/</a>
+
+- dates: 06/17/2022
+  title: >
+    <strong>SoCC</strong>
+  readings:
+    <a href="https://acmsocc.org/2022/" target="_blank">https://acmsocc.org/2022/</a>
+
+- dates: <strong>06/23/2023</strong>
+  title: >
+    <strong>SEC</strong>
+  readings:
+    <a href="https://acm-ieee-sec.org/2023/" target="_blank">https://acm-ieee-sec.org/2023/</a>
+
+
+- dates: 
+  - 08/10/2022
+  - 10/19/2022
+  - 02/01/2023
+  title: >
+    <strong>SIGMETRICS</strong>
+  readings:
+    <a href="https://www.sigmetrics.org/sigmetrics2023/" target="_blank">https://www.sigmetrics.org/sigmetrics2023/</a>
+
+- dates: 11/04/2022
+  title: >
+    <strong>ICPE</strong>
+  readings:
+    <a href="https://icpe2023.spec.org/" target="_blank">https://icpe2023.spec.org/</a>
+
+- dates:  
+  - 02/12/2022
+  - <strong>05/26/2023</strong>
+  title: >
+    <strong>Middleware</strong>
+  readings:
+    <a href="https://middleware-conf.github.io/2023" target="_blank">https://middleware-conf.github.io/2023</a>
+
+
+- dates: 12/12/2022
+  title: >
+    <strong>CCGrid</strong>
+  readings:
+    <a href="http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/" target="_blank">http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/</a>
+
+- dates: 12/13/2022
+  title: >
+    <strong>OSDI</strong>
+  readings:
+    <a href="https://www.usenix.org/conference/osdi22/" target="_blank">https://www.usenix.org/conference/osdi22/</a>
+
+
+- title: "Computing and Sustainability Conferences/Workshops"
+
+- dates: <strong>03/15/2023</strong>
+  title: >
+    <strong>WeCan</strong>
+  readings:
+    <a href="https://energy.acm.org/workshops/wecan/2023/" target="_blank">https://energy.acm.org/workshops/wecan/2023/</a>
+
+
+- dates: 05/18/2022
+  title: >
+    <strong>HotCarbon</strong>
+  readings:
+    <a href="https://hotcarbon.org/" target="_blank">https://hotcarbon.org/</a>
+
+
+- dates: 06/18/2022
+  title: >
+    <strong>IGSCC</strong>
+  readings:
+    <a href="https://www.igscc.org/" target="_blank">https://www.igscc.org/</a>
+
+
+- dates: 
+  - 02/15/2023
+  - <strong>04/15/2023</strong>
+  title: >
+    <strong>COMPASS/JCSS</strong>
+  readings:
+    <a href="https://compass.acm.org/" target="_blank">https://compass.acm.org/</a>
+
+
+- title: "Energy, Cyber-physical Systems, and Sensor Networks"
+
+- dates: <strong>04/09/2023</strong>
+  title: >
+    <strong>Energy Informatics</strong>
+  readings:
+    <a href="https://www.energy-informatics2023.org/" target="_blank">https://www.energy-informatics2023.org/</a>
+
+- dates: <strong>05/22/2023</strong>
+  title: >
+    <strong>SenSys</strong>
+  readings:
+    <a href="https://sgc2023.ieee-smartgridcomm.org/" target="_blank">https://sgc2023.ieee-smartgridcomm.org/</a>
+
+- dates: 06/21/2022
+  title: >
+    <strong>SenSys</strong>
+  readings:
+    <a href="https://sensys.acm.org/2022/cfp/" target="_blank">https://sensys.acm.org/2022/cfp/</a>
+
+- dates: 07/29/2022
+  title: >
+    <strong>BuildSys</strong>
+  readings:
+    <a href="https://buildsys.acm.org/2022/" target="_blank">https://buildsys.acm.org/2022/</a>
+
+- dates: 
+  - 09/10/2022
+  - 02/10/2023
+  title: >
+    <strong>e-Energy</strong>
+  readings:
+    <a href="https://energy.acm.org/conferences/eenergy/2023/" target="_blank">https://energy.acm.org/conferences/eenergy/2023/</a>
+
+- dates: 10/31/2022
+  title: >
+    <strong>ICCPS</strong>
+  readings:
+    <a href="https://iccps.acm.org/2023/" target="_blank">https://iccps.acm.org/2023/</a>
+
+- dates: 10/31/2022
+  title: >
+    <strong>IoTDI</strong>
+  readings:
+    <a href="https://conferences.computer.org/iotDI/2023/index.html" target="_blank">https://conferences.computer.org/iotDI/2023/index.html</a>
+
+- dates: 10/31/2022
+  title: >
+    <strong>IPSN</strong>
+  readings:
+    <a href="https://ipsn.acm.org/2023/index.html" target="_blank">https://ipsn.acm.org/2023/index.html</a>
+
+
+- title: ""

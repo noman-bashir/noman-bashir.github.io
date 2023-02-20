@@ -118,7 +118,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # blog_description: posts to come soon.
 # permalink: /blog/:year/:title/
 
-# # Pagination
+# Pagination
 # pagination:
 #   enabled: true
 
