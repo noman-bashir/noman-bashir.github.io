@@ -1,7 +1,8 @@
 ---
 layout: table
 permalink: /resources/
-title: conferences
+title: resources
+description: A list of relevant conferences. 
 nav: true
 nav_order: 4
 ---
