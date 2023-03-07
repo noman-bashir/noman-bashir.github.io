@@ -41,8 +41,8 @@
 
 - dates: 
   - <strong>04/20/2023</strong>
-  - 08/10/2023
-  - 11/30/2023
+  - <strong>08/10/2023</strong>
+  - <strong>11/30/2023</strong>
   title: >
     <strong>ASPLOS</strong>
   readings:
@@ -92,11 +92,11 @@
   readings:
     <a href="https://conferences.sigcomm.org/imc/2023/" target="_blank">https://conferences.sigcomm.org/imc/2023/</a>
 
-- dates: 06/17/2022
+- dates: 06/17/2023
   title: >
     <strong>SoCC</strong>
   readings:
-    <a href="https://acmsocc.org/2022/" target="_blank">https://acmsocc.org/2022/</a>
+    <a href="https://acmsocc.org/2023/" target="_blank">https://acmsocc.org/2023/</a>
 
 - dates: <strong>06/23/2023</strong>
   title: >
