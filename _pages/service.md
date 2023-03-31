@@ -18,8 +18,9 @@ nav_order: 2
 
 **I have served on the program committees of the following conferences and workshops.**
 
+- ACM BuildSys (2023)
 - ACM e-Energy (2023)
-- ACM SoCC (2023)
+- ACM SoCC (2022)
 - ACM ENSsys (2022)
 - Tackling Climate Change with Machine Learning at NeurIPS (2022)
 - Tackling Climate Change with Machine Learning at ICLR (2023)
