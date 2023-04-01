@@ -26,27 +26,17 @@
   readings:
     <a href="https://facctconference.org/2023/" target="_blank">https://facctconference.org/2023/</a>
 
-- dates: <strong>03/20/2023</strong>
+- dates: 03/20/2023
   title: >
     <strong>IC2E</strong>
   readings:
     <a href="https://conferences.computer.org/IC2E/2023/index.html" target="_blank">https://conferences.computer.org/IC2E/2023/index.html</a>
 
-- dates: <strong>03/25/2023</strong>
+- dates: 03/25/2023
   title: >
     <strong>CLOUD</strong>
   readings:
     <a href="https://conferences.computer.org/cloud/2023/" target="_blank">https://conferences.computer.org/cloud/2023/</a>
-
-- dates: 
-  - <strong>04/20/2023</strong>
-  - <strong>08/10/2023</strong>
-  - <strong>11/30/2023</strong>
-  title: >
-    <strong>ASPLOS</strong>
-  readings:
-    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
-
 
 - dates: <strong>04/06/2023</strong>
   title: >
@@ -59,6 +49,15 @@
     <strong>SOSP</strong>
   readings:
     <a href="https://sosp2023.mpi-sws.org/" target="_blank">https://sosp2023.mpi-sws.org/</a>
+
+- dates: 
+  - <strong>04/20/2023</strong>
+  - <strong>08/10/2023</strong>
+  - <strong>11/30/2023</strong>
+  title: >
+    <strong>ASPLOS</strong>
+  readings:
+    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
 
 - dates: 
   - <strong>05/04/2023</strong>
@@ -91,7 +90,7 @@
   readings:
     <a href="https://conferences.sigcomm.org/imc/2023/" target="_blank">https://conferences.sigcomm.org/imc/2023/</a>
 
-- dates: <strong>06/17/2023</strong>
+- dates: <strong>06/09/2023</strong>
   title: >
     <strong>SoCC</strong>
   readings:

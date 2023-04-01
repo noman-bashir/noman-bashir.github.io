@@ -5,8 +5,7 @@
               Fatima M. Anwar and 
               Jeremy Gummeson and 
               Prashant Shenoy},
-  title     = {Jointly Managing Electrical and Thermal Energy in Solar- and
-Battery-powered Computer Systems},
+  title     = {Jointly Managing Electrical and Thermal Energy in Solar- and Battery-powered Computer Systems},
   booktitle = {e-Energy'23: {ACM} International Conference on Future Energy Systems,},
   publisher = {{ACM}},
   year      = {2023},
@@ -43,27 +42,37 @@ Battery-powered Computer Systems},
   abbr      = {e-Energy'23},
 }
 
-@inproceedings{DBLP:journals/corr/abs-2210-04951,
+@inproceedings{DBLP:conf/asplos/SouzaBMHL0S23,
   author    = {Abel Souza and
                Noman Bashir and
                Jorge Murillo and
                Walid A. Hanafy and
                Qianlin Liang and
-               David Irwin and
+               David E. Irwin and
                Prashant J. Shenoy},
+  editor    = {Tor M. Aamodt and
+               Natalie D. Enright Jerger and
+               Michael M. Swift},
   title     = {Ecovisor: {A} Virtual Energy System for Carbon-Efficient Applications},
-  booktitle = {ASPLOS '23: The International Conference on Architectural Support for Programming Languages and Operating Systems,},
+  booktitle = {Proceedings of the 28th {ACM} International Conference on Architectural
+               Support for Programming Languages and Operating Systems
+               {(ASPLOS)}, 2023},
+  pages     = {252--265},
   publisher = {{ACM}},
   year      = {2023},
-  url       = {https://doi.org/10.48550/arXiv.2210.04951},
-  doi       = {10.48550/arXiv.2210.04951},
-  timestamp = {Thu, 13 Oct 2022 01:00:00 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-04951.bib},
+  url       = {https://doi.org/10.1145/3575693.3575709},
+  doi       = {10.1145/3575693.3575709},
+  timestamp = {Tue, 21 Mar 2023 20:56:30 +0100},
+  biburl    = {https://dblp.org/rec/conf/asplos/SouzaBMHL0S23.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   pdf       = {https://lass.cs.umass.edu/papers/pdf/ASPLOS2023_ecovisor.pdf},
-  url       = {https://dl.acm.org/doi/abs/10.1145/3575693.3575709},
   selected  = {true}, 
+  bibtex_show = {true},
   abbr      = {ASPLOS '23},
+  abstract  = {Cloud platforms' rapid growth is raising significant concerns about their carbon emissions. To reduce carbon emissions, future cloud platforms will need to increase their reliance on renewable energy sources, such as solar and wind, which have zero emissions but are highly unreliable. Unfortunately, today's energy systems effectively mask this unreliability in hardware, which prevents applications from optimizing their carbon-efficiency, or work done per kilogram of carbon emitted. To address the problem, we design an "ecovisor", which virtualizes the energy system and exposes software-defined control of it to applications. An ecovisor enables each application to handle clean energy's unreliability in software based on its own specific requirements. We implement a small-scale ecovisor prototype that virtualizes a physical energy system to enable software-based application-level i) visibility into variable grid carbon-intensity and local renewable generation and ii) control of server power usage and battery charging and discharging. We evaluate the ecovisor approach by showing how multiple applications can concurrently exercise their virtual energy system in different ways to better optimize carbon-efficiency based on their specific requirements compared to general system-wide policies.},
+  arxiv     = {2210.04951},
+  poster      = {asplos23-poster.pdf},
+  slides    = {asplos23-slides.pdf}
 }
 
 @inproceedings{DBLP:conf/icpe/Talha23,
@@ -76,6 +85,7 @@ Battery-powered Computer Systems},
   publisher = {{ACM/SPEC}},
   year      = {2023},
   abbr      = {ICPE'23},
+  pdf       = {icpe23-paper.pdf}
 }
 
 @inproceedings{DBLP:conf/iotdi/Qianlin23,
@@ -89,7 +99,38 @@ Battery-powered Computer Systems},
   booktitle = {IoTDI'23: {ACM/IEEE} International Conference on Internet of Things Design and Implementation,},
   publisher = {{ACM/IEEE}},
   year      = {2023},
+  pdf       = {https://lass.cs.umass.edu/papers/pdf/iotdi23-delen.pdf},
   abbr      = {IoTDI'23},
+}
+
+@article{DBLP:journals/arxiv/carbonscaler23,
+  author    = {Walid A. Hanafy and 
+              Qianlin Liang and 
+              Noman Bashir and
+              David Irwin and 
+              Prashant Shenoy},
+  title     = {CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency},
+  journal={arXiv preprint arXiv:2302.08681,},
+  publisher = {{arXiv}},
+  arxiv     = {2302.08681},
+  year      = {2023},
+  abbr      = {Under-review},
+}
+
+@article{DBLP:journals/arxiv/PandR23,
+  author    = {Adam Lechowicz and 
+              Nicolas Christianson and 
+              Jinhang Zuo and
+              Noman Bashir and
+              Mohammad Hajiesmaili and
+              Adam Wierman and
+              Prashant Shenoy},
+  title     = {The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting},
+  journal={arXiv preprint arXiv:2303.17551,},
+  publisher = {{arXiv}},
+  arxiv     = {2303.17551},
+  year      = {2023},
+  abbr      = {Under-review},
 }
 
 @inproceedings{DBLP:conf/sensys/Wamburu0S22,
