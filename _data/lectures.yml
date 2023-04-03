@@ -90,11 +90,25 @@
   readings:
     <a href="https://conferences.sigcomm.org/imc/2023/" target="_blank">https://conferences.sigcomm.org/imc/2023/</a>
 
+- dates:  
+  - <strong>05/28/2023</strong>
+  title: >
+    <strong>Performance</strong>
+  readings:
+    <a href="https://performance2023.sciencesconf.org/" target="_blank">https://performance2023.sciencesconf.org/</a>
+
+
 - dates: <strong>06/09/2023</strong>
   title: >
     <strong>SoCC</strong>
   readings:
     <a href="https://acmsocc.org/2023/" target="_blank">https://acmsocc.org/2023/</a>
+
+- dates: <strong>06/15/2023</strong>
+  title: >
+    <strong>CoNEXT</strong>
+  readings:
+    <a href="https://conferences.sigcomm.org/co-next/2023" target="_blank">https://conferences.sigcomm.org/co-next/2023</a>
 
 - dates: <strong>06/23/2023</strong>
   title: >
@@ -111,6 +125,12 @@
     <strong>SIGMETRICS</strong>
   readings:
     <a href="https://www.sigmetrics.org/sigmetrics2023/" target="_blank">https://www.sigmetrics.org/sigmetrics2023/</a>
+
+- dates: 10/13/2022
+  title: >
+    <strong>WEB</strong>
+  readings:
+    <a href="https://www2023.thewebconf.org/" target="_blank">https://www2023.thewebconf.org/</a>
 
 - dates: 10/28/2022
   title: >
