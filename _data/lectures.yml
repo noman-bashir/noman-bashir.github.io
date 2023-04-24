@@ -44,20 +44,12 @@
   readings:
     <a href="https://sc23.supercomputing.org/" target="_blank">https://sc23.supercomputing.org/</a>
 
-- dates: <strong>04/17/2023</strong>
+- dates: 04/17/2023
   title: >
     <strong>SOSP</strong>
   readings:
     <a href="https://sosp2023.mpi-sws.org/" target="_blank">https://sosp2023.mpi-sws.org/</a>
 
-- dates: 
-  - <strong>04/20/2023</strong>
-  - <strong>08/10/2023</strong>
-  - <strong>11/30/2023</strong>
-  title: >
-    <strong>ASPLOS</strong>
-  readings:
-    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
 
 - dates: 
   - <strong>05/04/2023</strong>
@@ -116,6 +108,14 @@
   readings:
     <a href="https://acm-ieee-sec.org/2023/" target="_blank">https://acm-ieee-sec.org/2023/</a>
 
+- dates: 
+  - 04/20/2023
+  - <strong>08/10/2023</strong>
+  - <strong>11/30/2023</strong>
+  title: >
+    <strong>ASPLOS</strong>
+  readings:
+    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
 
 - dates: 
   - 08/10/2022
