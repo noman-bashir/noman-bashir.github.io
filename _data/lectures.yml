@@ -96,17 +96,17 @@
   readings:
     <a href="https://acmsocc.org/2023/" target="_blank">https://acmsocc.org/2023/</a>
 
-- dates: <strong>06/15/2023</strong>
-  title: >
-    <strong>CoNEXT</strong>
-  readings:
-    <a href="https://conferences.sigcomm.org/co-next/2023" target="_blank">https://conferences.sigcomm.org/co-next/2023</a>
-
 - dates: <strong>06/23/2023</strong>
   title: >
     <strong>SEC</strong>
   readings:
     <a href="https://acm-ieee-sec.org/2023/" target="_blank">https://acm-ieee-sec.org/2023/</a>
+
+- dates: <strong>06/27/2023</strong>
+  title: >
+    <strong>CoNEXT</strong>
+  readings:
+    <a href="https://conferences.sigcomm.org/co-next/2023" target="_blank">https://conferences.sigcomm.org/co-next/2023</a>
 
 - dates: 
   - 04/20/2023
