@@ -50,15 +50,6 @@
   readings:
     <a href="https://sosp2023.mpi-sws.org/" target="_blank">https://sosp2023.mpi-sws.org/</a>
 
-
-- dates: 
-  - <strong>05/04/2023</strong>
-  - <strong>09/14/2023</strong>
-  title: >
-    <strong>NSDI</strong>
-  readings:
-    <a href="https://www.usenix.org/conference/nsdi24/" target="_blank">https://www.usenix.org/conference/nsdi24/</a>
-
 - dates: 
   - <strong>05/18/2023</strong>
   - <strong>10/19/2023</strong>
@@ -88,7 +79,6 @@
     <strong>Performance</strong>
   readings:
     <a href="https://performance2023.sciencesconf.org/" target="_blank">https://performance2023.sciencesconf.org/</a>
-
 
 - dates: <strong>06/09/2023</strong>
   title: >
@@ -126,6 +116,15 @@
   readings:
     <a href="https://www.sigmetrics.org/sigmetrics2023/" target="_blank">https://www.sigmetrics.org/sigmetrics2023/</a>
 
+- dates: 
+  - 05/04/2023
+  - <strong>09/14/2023</strong>
+  title: >
+    <strong>NSDI</strong>
+  readings:
+    <a href="https://www.usenix.org/conference/nsdi24/" target="_blank">https://www.usenix.org/conference/nsdi24/</a>
+
+
 - dates: 10/13/2022
   title: >
     <strong>WEB</strong>
@@ -159,14 +158,14 @@
 
 - title: "Computing and Sustainability Conferences/Workshops"
 
-- dates: <strong>04/22/2023</strong>
+- dates: <strong>05/07/2023</strong>
   title: >
-    <strong>WeCan</strong>
+    <strong>SoDec</strong>
   readings:
     <a href="https://energy.acm.org/workshops/wecan/2023/" target="_blank">https://energy.acm.org/workshops/wecan/2023/</a>
 
 
-- dates: <strong>05/08/2023</strong>
+- dates: <strong>05/21/2023</strong>
   title: >
     <strong>HotCarbon</strong>
   readings:
