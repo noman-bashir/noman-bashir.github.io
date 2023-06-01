@@ -25,3 +25,6 @@ During my PhD, I worked as a Student Researcher in the [Distributed Systems and 
 Prior to joining UMass, I worked as a Research Assistant at the [Advanced Communication Lab](https://adcom.lums.edu.pk/) at [LUMS](https://lums.edu.pk/), Pakistan, and Systems & Networks Research Lab at [NUCES-NU](https://www.nu.edu.pk/), Pakistan. 
 I did my MS in Energy Systems Engineering from [Center for Advanced Studies in Energy](https://uspcase.nust.edu.pk/about-us/nust-at-a-glance/) at [NUST](https://nust.edu.pk/), Pakistan. 
 I did my BS in Electrical Engineering <br> at [UET Lahore](https://www.uet.edu.pk/), Pakistan. 
+
+Please access my resume at [Noman's CV](https://noman-bashir.github.io/assets/pdf/academic_cv.pdf).
+
