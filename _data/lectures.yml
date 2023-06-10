@@ -74,13 +74,13 @@
     <a href="https://conferences.sigcomm.org/imc/2023/" target="_blank">https://conferences.sigcomm.org/imc/2023/</a>
 
 - dates:  
-  - <strong>06/08/2023</strong>
+  - 06/08/2023
   title: >
     <strong>Performance</strong>
   readings:
     <a href="https://performance2023.sciencesconf.org/" target="_blank">https://performance2023.sciencesconf.org/</a>
 
-- dates: <strong>06/09/2023</strong>
+- dates: 06/09/2023
   title: >
     <strong>SoCC</strong>
   readings:
@@ -97,6 +97,12 @@
     <strong>CoNEXT</strong>
   readings:
     <a href="https://conferences.sigcomm.org/co-next/2023" target="_blank">https://conferences.sigcomm.org/co-next/2023</a>
+
+- dates: <strong>07/31/2023</strong>
+  title: >
+    <strong>INFOCOM</strong>
+  readings:
+    <a href="https://infocom2024.ieee-infocom.org/" target="_blank">https://infocom2024.ieee-infocom.org/</a>
 
 - dates: 
   - 04/20/2023
@@ -125,11 +131,11 @@
     <a href="https://www.usenix.org/conference/nsdi24/" target="_blank">https://www.usenix.org/conference/nsdi24/</a>
 
 
-- dates: 10/13/2022
+- dates: <strong>10/12/2023</strong>
   title: >
     <strong>WEB</strong>
   readings:
-    <a href="https://www2023.thewebconf.org/" target="_blank">https://www2023.thewebconf.org/</a>
+    <a href="https://www2024.thewebconf.org/" target="_blank">https://www2024.thewebconf.org/</a>
 
 - dates: 10/28/2022
   title: >
@@ -149,11 +155,11 @@
   readings:
     <a href="http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/" target="_blank">http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023/</a>
 
-- dates: 12/13/2022
+- dates: <strong>12/07/2023</strong>
   title: >
     <strong>OSDI</strong>
   readings:
-    <a href="https://www.usenix.org/conference/osdi22/" target="_blank">https://www.usenix.org/conference/osdi22/</a>
+    <a href="https://www.usenix.org/conference/osdi24/" target="_blank">https://www.usenix.org/conference/osdi24/</a>
 
 
 - title: "Computing and Sustainability Conferences/Workshops"
@@ -165,14 +171,14 @@
     <a href="https://energy.acm.org/workshops/wecan/2023/" target="_blank">https://energy.acm.org/workshops/wecan/2023/</a>
 
 
-- dates: <strong>05/21/2023</strong>
+- dates: 05/21/2023
   title: >
-    HotCarbon
+    <strong>HotCarbon</strong>
   readings:
     <a href="https://hotcarbon.org/" target="_blank">https://hotcarbon.org/</a>
 
 
-- dates: 06/18/2023
+- dates: <strong>06/18/2023</strong>
   title: >
     <strong>IGSCC</strong>
   readings:
