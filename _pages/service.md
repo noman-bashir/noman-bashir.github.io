@@ -7,8 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-**I have served as chair, co-chair, or organizer at the following conferences, workshops, and events.**
+**I have served as an organizing committee member at the following conferences/workshops/events.**
 
+- ACM e-Energy (2024)
 - ACM SIGEnergy Workshop on Societal Decarbonization (2022 - present)
 - ACM BuildSys Doctoral Symposium Chair (2023)
 - IEEE IC2E PhD Symposium Chair (2023)
