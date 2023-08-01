@@ -86,7 +86,7 @@
   readings:
     <a href="https://acmsocc.org/2023/" target="_blank">https://acmsocc.org/2023/</a>
 
-- dates: <strong>07/07/2023</strong>
+- dates: 07/07/2023
   title: >
     <strong>SEC</strong>
   readings:
@@ -124,7 +124,7 @@
 
 - dates: 
   - 05/04/2023
-  - <strong>09/14/2023</strong>
+  - <strong>09/21/2023</strong>
   title: >
     <strong>NSDI</strong>
   readings:
@@ -178,7 +178,7 @@
     <a href="https://hotcarbon.org/" target="_blank">https://hotcarbon.org/</a>
 
 
-- dates: <strong>06/30/2023</strong>
+- dates: 06/30/2023
   title: >
     <strong>IGSCC</strong>
   readings:
@@ -214,37 +214,37 @@
   readings:
     <a href="https://sensys.acm.org/2022/cfp/" target="_blank">https://sensys.acm.org/2022/cfp/</a>
 
-- dates: <strong>07/17/2023</strong>
+- dates: 07/17/2023
   title: >
     <strong>BuildSys</strong>
   readings:
     <a href="https://buildsys.acm.org/2023/" target="_blank">https://buildsys.acm.org/2023/</a>
 
 - dates: 
-  - 09/10/2022
-  - 02/10/2023
+  - <strong>09/22/2023</strong>
+  - <strong>02/02/2024</strong>
   title: >
     <strong>e-Energy</strong>
   readings:
-    <a href="https://energy.acm.org/conferences/eenergy/2023/" target="_blank">https://energy.acm.org/conferences/eenergy/2023/</a>
+    <a href="https://energy.acm.org/conferences/eenergy/2024/" target="_blank">https://energy.acm.org/conferences/eenergy/2024/</a>
 
-- dates: 10/31/2022
+- dates: <strong>10/31/2023</strong>
   title: >
     <strong>ICCPS</strong>
   readings:
-    <a href="https://iccps.acm.org/2023/" target="_blank">https://iccps.acm.org/2023/</a>
+    <a href="https://iccps.acm.org/2024/" target="_blank">https://iccps.acm.org/2024/</a>
 
-- dates: 10/31/2022
+- dates: <strong>10/31/2023</strong>
   title: >
     <strong>IoTDI</strong>
   readings:
-    <a href="https://conferences.computer.org/iotDI/2023/index.html" target="_blank">https://conferences.computer.org/iotDI/2023/index.html</a>
+    <a href="https://conferences.computer.org/iotDI/2024/index.html" target="_blank">https://conferences.computer.org/iotDI/2024/index.html</a>
 
-- dates: 10/31/2022
+- dates: <strong>10/31/2023</strong>
   title: >
     <strong>IPSN</strong>
   readings:
-    <a href="https://ipsn.acm.org/2023/index.html" target="_blank">https://ipsn.acm.org/2023/index.html</a>
+    <a href="https://ipsn.acm.org/2024/index.html" target="_blank">https://ipsn.acm.org/2024/index.html</a>
 
 
 - title: ""
