@@ -28,5 +28,3 @@ I did my BS in Electrical Engineering <br> at [UET Lahore](https://www.uet.edu.p
 
 I take a huge pride in serving the community and was recognized as one of the top three reviewers at ACM e-Energy'23.
 
-<!-- Please access my resume at [Noman's CV](https://noman-bashir.github.io/assets/pdf/academic_cv.pdf). -->
-
