@@ -10,6 +10,7 @@ nav_order: 2
 **I have served as an organizing committee member at the following conferences/workshops/events.**
 
 - ACM e-Energy (2024)
+- ACM/IEEE IPSN (2024)
 - ACM SIGEnergy Workshop on Societal Decarbonization (2022 - present)
 - ACM BuildSys Doctoral Symposium Chair (2023)
 - IEEE IC2E PhD Symposium Chair (2023)
@@ -19,6 +20,9 @@ nav_order: 2
 
 **I have served on the program committees of the following conferences and workshops.**
 
+- ACM e-Energy (2024)
+- ACM/IEEE IPSN (2024)
+- DATA Workshop (2023)
 - ACM BuildSys (2023)
 - ACM e-Energy (2023), recognized as one of the top three reviewers. 
 - ACM SoCC (2022, 2023)
