@@ -98,7 +98,7 @@
   readings:
     <a href="https://conferences.sigcomm.org/co-next/2023" target="_blank">https://conferences.sigcomm.org/co-next/2023</a>
 
-- dates: <strong>07/31/2023</strong>
+- dates: 07/31/2023
   title: >
     <strong>INFOCOM</strong>
   readings:
@@ -115,7 +115,7 @@
 
 - dates: 
   - 08/09/2023
-  - <strong>10/11/2023</strong>
+  - 10/11/2023
   - <strong>01/31/2024</strong>
   title: >
     <strong>SIGMETRICS</strong>
@@ -124,7 +124,7 @@
 
 - dates: 
   - 05/04/2023
-  - <strong>09/21/2023</strong>
+  - 09/21/2023
   title: >
     <strong>NSDI</strong>
   readings:
@@ -221,7 +221,7 @@
     <a href="https://buildsys.acm.org/2023/" target="_blank">https://buildsys.acm.org/2023/</a>
 
 - dates: 
-  - <strong>09/29/2023</strong>
+  - 09/29/2023
   - <strong>02/02/2024</strong>
   title: >
     <strong>e-Energy</strong>
