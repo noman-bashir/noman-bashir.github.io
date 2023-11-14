@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/). I work with MIT EECS Researchers and Industry Partners on leveraging my expertise for near-term change for a more sustainable future.
+I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/). I am affiliated with [Christina Delimitrou's](https://people.csail.mit.edu/delimitrou/Main.html) group at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
+
+<!-- I work with MIT EECS Researchers and Industry Partners on leveraging my expertise for near-term change for a more sustainable future. -->
 
 Before joining MIT, I was a Research Associate at the [Laboratory for Advanced System Software (LASS)](https://lass.cs.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/), where I worked with [Prof. Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). I did my PhD in Computer Engineering (2022) at the [Sustainable Computing Lab](https://www.sustainablecomputinglab.io/), University of Massachusetts Amherst, where I was advised by [Prof. David Irwin](https://www.davidirwin.info/). My research focused on decarbonizing societal infrastructure including datacenters, edge computing systems, and energy systems.
 
