@@ -1,65 +1,72 @@
 - title: "Systems, Cloud Computing, and General Computer Science"
 
 - dates: 
-  - 01/16/2023
+  - 01/16/2024
   title: >
     <strong>ATC</strong>
   readings:
     <a href="https://www.usenix.org/conference/atc24" target="_blank">https://www.usenix.org/conference/atc24</a>
 
-- dates: 01/22/2023
+- dates: 01/22/2024
   title: >
     <strong>FAccT</strong>
   readings:
     <a href="https://facctconference.org/2024/" target="_blank">https://facctconference.org/2024/</a>
 
-- dates: 
-  - 01/26/2023
-  title: >
-    <strong>ICDCS</strong>
-  readings:
-    <a href="https://icdcs2024.icdcs.org/" target="_blank">https://icdcs2024.icdcs.org/</a>
-
-- dates: 01/27/2023
+- dates: 01/25/2024
   title: >
     <strong>HPDC</strong>
   readings:
-    <a href="https://www.hpdc.org/2023/" target="_blank">https://www.hpdc.org/2023/</a>
+    <a href="https://www.hpdc.org/2024/" target="_blank">https://www.hpdc.org/2024/</a>
 
-- dates: 04/19/2024
+# - dates: 
+#   - 01/26/2024
+#   title: >
+#     <strong>ICDCS</strong>
+#   readings:
+#     <a href="https://icdcs2024.icdcs.org/" target="_blank">https://icdcs2024.icdcs.org/</a>
+
+- dates: 
+  - 02/02/2024
   title: >
-    <strong>IC2E</strong>
+    <strong>SIGCOMM</strong>
   readings:
-    <a href="https://conferences.computer.org/IC2E/2024/index.html" target="_blank">https://conferences.computer.org/IC2E/2024/index.html</a>
+    <a href="https://conferences.sigcomm.org/sigcomm/2024/cfp/" target="_blank">https://conferences.sigcomm.org/sigcomm/2024</a>
 
-- dates: 03/25/2023
-  title: >
-    <strong>CLOUD</strong>
-  readings:
-    <a href="https://conferences.computer.org/cloud/2023/" target="_blank">https://conferences.computer.org/cloud/2023/</a>
+# - dates: 03/25/2023
+#   title: >
+#     <strong>CLOUD</strong>
+#   readings:
+#     <a href="https://conferences.computer.org/cloud/2023/" target="_blank">https://conferences.computer.org/cloud/2023/</a>
 
-- dates: 04/02/2024
+- dates: <strong>04/02/2024</strong>
   title: >
     <strong>SC</strong>
   readings:
     <a href="https://sc24.supercomputing.org/" target="_blank">https://sc24.supercomputing.org/</a>
 
-- dates: XX/XX/2024
+- dates: <strong>04/17/2024</strong>
   title: >
     <strong>SOSP</strong>
   readings:
     <a href="https://sigops.org/s/conferences/sosp/2024/" target="_blank">https://sigops.org/s/conferences/sosp/2024/</a>
 
+# - dates: 04/19/2024
+#   title: >
+#     <strong>IC2E</strong>
+#   readings:
+#     <a href="https://conferences.computer.org/IC2E/2024/index.html" target="_blank">https://conferences.computer.org/IC2E/2024/index.html</a>
+
 - dates: 
-  - XX/XX/2024
-  - XX/XX/2024
+  - <strong>05/21/2024</strong>
+  - 10/22/2024
   title: >
     <strong>EuroSys</strong>
   readings:
     <a href="https://www.eurosys.org/news/eurosys-2024" target="_blank">https://www.eurosys.org/news/eurosys-2024</a>
 
 - dates:  
-  - 05/15/2024
+  - <strong>05/15/2024</strong>
   title: >
     <strong>IMC</strong>
   readings:
@@ -67,7 +74,7 @@
 
 - dates:  
   - 01/12/2023
-  - 05/24/2024
+  - <strong>05/24/2024</strong>
   title: >
     <strong>Middleware</strong>
   readings:
@@ -87,7 +94,7 @@
     <a href="https://acmsocc.org/2023/" target="_blank">https://acmsocc.org/2023/</a>
 
 - dates: 
-  - 06/21/2024
+  - <strong>06/21/2024</strong>
   title: >
     <strong>SEC</strong>
   readings:
@@ -95,7 +102,7 @@
 
 - dates: 
   - 04/12/2023
-  - 06/14/2024
+  - <strong>06/14/2024</strong>
   title: >
     <strong>CoNEXT</strong>
   readings:
@@ -108,30 +115,30 @@
     <a href="https://infocom2024.ieee-infocom.org/" target="_blank">https://infocom2024.ieee-infocom.org/</a>
 
 - dates: 
-  - 04/20/2023
-  - 08/10/2023
-  - <strong>11/30/2023</strong>
+  - <strong>03/01/2024</strong>
+  - 06/24/2024
+  - 10/18/2024
   title: >
     <strong>ASPLOS</strong>
   readings:
-    <a href="https://asplos-conference.org/" target="_blank">https://asplos-conference.org/</a>
+    <a href="https://www.asplos-conference.org/asplos-2025-call-for-papers/" target="_blank">https://asplos-conference.org/</a>
 
 - dates: 
   - 08/09/2023
   - 10/11/2023
-  - <strong>01/31/2024</strong>
+  - 01/31/2024
   title: >
     <strong>SIGMETRICS</strong>
   readings:
     <a href="https://www.sigmetrics.org/sigmetrics20234" target="_blank">https://www.sigmetrics.org/sigmetrics2024/</a>
 
 - dates: 
-  - 05/04/2023
-  - 09/21/2023
+  - <strong>05/07/2024</strong>
+  - 09/19/2024
   title: >
     <strong>NSDI</strong>
   readings:
-    <a href="https://www.usenix.org/conference/nsdi24/" target="_blank">https://www.usenix.org/conference/nsdi24/</a>
+    <a href="https://www.usenix.org/conference/nsdi25/" target="_blank">https://www.usenix.org/conference/nsdi25/</a>
 
 
 - dates: <strong>10/12/2023</strong>
@@ -146,11 +153,11 @@
   readings:
     <a href="https://mlsys.org/Conferences/2024/CallForPapers" target="_blank">https://mlsys.org/Conferences/2024/</a>
 
-- dates: <strong>11/03/2023</strong>
-  title: >
-    <strong>ICPE</strong>
-  readings:
-    <a href="https://icpe2024.spec.org/" target="_blank">https://icpe2024.spec.org/</a>
+# - dates: <strong>11/03/2023</strong>
+#   title: >
+#     <strong>ICPE</strong>
+#   readings:
+#     <a href="https://icpe2024.spec.org/" target="_blank">https://icpe2024.spec.org/</a>
 
 - dates: 12/04/2023
   title: >
@@ -167,14 +174,14 @@
 
 - title: "Computing and Sustainability Conferences/Workshops"
 
-- dates: 05/07/2023
+- dates: <strong>03/26/2024</strong>
   title: >
     <strong>SoDec</strong>
   readings:
-    <a href="https://energy.acm.org/workshops/wecan/2023/" target="_blank">https://energy.acm.org/workshops/wecan/2023/</a>
+    <a href="https://energy.acm.org/workshops/wecan/2024/" target="_blank">https://energy.acm.org/workshops/wecan/2024/</a>
 
 
-- dates: 05/21/2023
+- dates: 05/08/2024
   title: >
     <strong>HotCarbon</strong>
   readings:
@@ -188,28 +195,28 @@
     <a href="https://www.igscc.org/" target="_blank">https://www.igscc.org/</a>
 
 
-- dates: 
-  - 02/15/2023
-  - 04/15/2023
-  title: >
-    <strong>COMPASS/JCSS</strong>
-  readings:
-    <a href="https://compass.acm.org/" target="_blank">https://compass.acm.org/</a>
+# - dates: 
+#   - 02/15/2023
+#   - 04/15/2023
+#   title: >
+#     <strong>COMPASS/JCSS</strong>
+#   readings:
+#     <a href="https://compass.acm.org/" target="_blank">https://compass.acm.org/</a>
 
 
 - title: "Energy, Cyber-physical Systems, and Sensor Networks"
 
-- dates: 04/09/2023
-  title: >
-    <strong>Energy Informatics</strong>
-  readings:
-    <a href="https://www.energy-informatics2023.org/" target="_blank">https://www.energy-informatics2023.org/</a>
+# - dates: 04/09/2023
+#   title: >
+#     <strong>Energy Informatics</strong>
+#   readings:
+#     <a href="https://www.energy-informatics2023.org/" target="_blank">https://www.energy-informatics2023.org/</a>
 
-- dates: 06/30/2023
-  title: >
-    <strong>SmartGridComm</strong>
-  readings:
-    <a href="https://sgc2023.ieee-smartgridcomm.org/" target="_blank">https://sgc2023.ieee-smartgridcomm.org/</a>
+# - dates: 04/10/2024
+#   title: >
+#     <strong>SmartGridComm</strong>
+#   readings:
+#     <a href="https://sgc2024.ieee-smartgridcomm.org/" target="_blank">https://sgc2024.ieee-smartgridcomm.org/</a>
 
 - dates: 06/29/2023
   title: >
@@ -225,25 +232,25 @@
 
 - dates: 
   - 09/29/2023
-  - <strong>02/02/2024</strong>
+  - 02/02/2024
   title: >
     <strong>e-Energy</strong>
   readings:
     <a href="https://energy.acm.org/conferences/eenergy/2024/" target="_blank">https://energy.acm.org/conferences/eenergy/2024/</a>
 
-- dates: <strong>10/31/2023</strong>
+- dates: 10/31/2023
   title: >
     <strong>ICCPS</strong>
   readings:
     <a href="https://iccps.acm.org/2024/" target="_blank">https://iccps.acm.org/2024/</a>
 
-- dates: <strong>10/31/2023</strong>
+- dates: 10/31/2023
   title: >
     <strong>IoTDI</strong>
   readings:
     <a href="https://conferences.computer.org/iotDI/2024/index.html" target="_blank">https://conferences.computer.org/iotDI/2024/index.html</a>
 
-- dates: <strong>10/31/2023</strong>
+- dates: 10/31/2023
   title: >
     <strong>IPSN</strong>
   readings:
