@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
 <div class="row">
   <div class="col-sm-1 {% if entry.preview %}preview{% else %}abbr{% else %}pdf{% endif %}"
-    style="flex: 0 0 16%; max-width: 16%;">
+    style="flex: 0 0 17%; max-width: 17%;">
     <!-- Journal/Book title and date -->
     {% assign proceedings = "inproceedings, incollection" | split: ','%}
     {% if entry.type == "article" -%}
@@ -148,6 +148,13 @@
       <span class="downloadpdf">
         <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" target="_blank"><i
             class="fa fa-file-powerpoint"></i></a>
+      </span>
+      {%- endif %}
+      {%- endif %}
+      {%- if entry.bib %}
+      {% if entry.bib contains '://' -%}
+      <span class="downloadf">
+        <a href="{{ entry.bib }}" target="_blank"><i class="fa fa-link"></i></a>
       </span>
       {%- endif %}
       {%- endif %}
