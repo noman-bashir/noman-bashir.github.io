@@ -20,6 +20,7 @@ nav_order: 2
 
 **I have served on the program committees of the following conferences and workshops.**
 
+- ACM SIGKDD (2024)
 - ACM e-Energy (2024)
 - ACM/IEEE IPSN (2024)
 - DATA Workshop (2023)
@@ -35,7 +36,7 @@ nav_order: 2
 - Journal of Systems Research: Serverless Systems (2023)
 - Climate Change AI Innovation Grants Program (2023)
 - SUSCOM (2022)
-- Applied Energy (2022 - present)
+- Applied Energy (2022 - 2024)
 - IEEE TPDS (2021)
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
