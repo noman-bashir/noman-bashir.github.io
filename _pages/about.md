@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/). I am affiliated with [Christina Delimitrou's](https://people.csail.mit.edu/delimitrou/Main.html) group at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
+I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/). I am also a postdoc with [Christina Delimitrou's](https://people.csail.mit.edu/delimitrou/Main.html) group at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
 
 <!-- I work with MIT EECS Researchers and Industry Partners on leveraging my expertise for near-term change for a more sustainable future. -->
 
