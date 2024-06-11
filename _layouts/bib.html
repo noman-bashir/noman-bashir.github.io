@@ -95,7 +95,15 @@
                 ">{{more_authors_hide}}</span>
       {%- endif -%}
 
-      <div class="title" style="display: inline"> - <q>{{entry.title}}.</q></div>
+      <div class="title" style="display: inline"> - <q>{{entry.title}},</q></div>
+      
+      {% if entry.rate -%}
+      <p style="display: inline"> Acceptance Rate: <b>{{entry.rate}}</b>.</p>
+      {%- endif -%}
+
+      {% if entry.award -%}
+      <p style="display: inline"> <b>{{ entry.award }}</b>.</p>
+      {%- endif -%}
 
     </div>
     {%- endif %}
