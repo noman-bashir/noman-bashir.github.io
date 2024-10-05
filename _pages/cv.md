@@ -1,8 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 6
-cv_pdf: academic_cv.pdf
+nav_order: 5
+cv_pdf: OCT-05-2024-NomanCV.pdf
+description: 
 ---

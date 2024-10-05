@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-04-26 07:58:00-0400
+date: 2024-09-08
 inline: true
+related_posts: false
 ---
 
-Three papers accepted to ACM e-Energy'23 (two full, one notes).
+I, with [Prof. Elsa Olivetti](https://olivetti.mit.edu/), received a Nokia research grant of $57,000 for our research on Provisioning and Operating Sustainable Datacenters.

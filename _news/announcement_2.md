@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-01-18 07:59:00-0400
+date: 2024-06-25
 inline: true
+related_posts: false
 ---
 
-I am serving as a program committee member at Climate Change AI workshop on [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2023) at ICLR'23. Please submit your papers. 
+Our paper **CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency** won the **Best Student Paper Award** at **ACM SIGMETRICS 2024**.

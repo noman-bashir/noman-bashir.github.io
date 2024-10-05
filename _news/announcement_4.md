@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-05-06 07:59:00-0400
+date: 2024-07-25
 inline: true
+related_posts: false
 ---
 
-I will be giving a webinar on decarbonizing AI at Climate Change AI webinar series [CCAI](https://www.climatechange.ai/webinars) in July.
+I will be talking about the climate and sustainability implications of generative AI at [2024 MIT ILP Sustainability Conference](https://ilp.mit.edu/Sustainability24) on October 22, 2024.

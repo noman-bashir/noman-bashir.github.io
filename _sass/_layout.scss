@@ -7,7 +7,12 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     scroll-margin-top: 66px;
   }
 }
@@ -22,9 +27,11 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
-
 .container {
   max-width: $max-content-width;
+  font-weight: 300;
+  font-size: 1.1rem;
+  justify-content: space-evenly;
 }
 
 // Profile
@@ -36,20 +43,11 @@ body.sticky-bottom-footer {
 
 // TODO: redefine content layout.
 
-
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
 // TODO: redefine publications layout.
-
-
-.custom-width {
-  flex: 0 0 18.66%; /* 2 columns = 16.66% * 2 = 33.33%, so choose a value between 16.66% and 33.33% */
-  max-width: 18.66%; /* Adjust this value based on your needs, making sure it's between 1 and 2 column widths */
-}
-
-
 
 /*****************************************************************************
 * Projects

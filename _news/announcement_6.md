@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-05-01 09:59:00-0400
+date: 2021-10-22
 inline: true
+related_posts: false
 ---
 
-I will be co-chairing ACM SIGEnergy SODEC'23 (formerly WeCan) workshop. Workshop website is live at [SODEC'23](https://energy.acm.org/workshops/wecan/2023/). 
+A simple inline announcement.

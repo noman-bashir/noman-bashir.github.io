@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-08-04 07:59:00-0400
+date: 2024-06-07
 inline: true
+related_posts: false
 ---
 
-I am serving as a program committee member at [ACM e-Energy'23](https://energy.acm.org/conferences/eenergy/2023/). Please submit your papers by February 10, 2023. 
+Our paper **The Green Mirage: Impact of Location- and Market-based Carbon Intensity Estimation on Carbon Optimization Efficacy** was **Best Full Paper Runner Up** at **ACM e-Energy 2024**.

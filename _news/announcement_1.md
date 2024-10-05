@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-01-28 07:59:00-0400
+date: 2024-09-25
 inline: true
+related_posts: false
 ---
 
-I will be chairing Ph.D. Symposiums/Forums at IEEE IC2E'23 and ACM BuildSys'23.
+My paper titled **The Sunk Carbon Fallacy: Rethinking Carbon Footprint Metrics for Effective Carbon-Aware Scheduling** has been accepted to ACM SoCC 2024.
