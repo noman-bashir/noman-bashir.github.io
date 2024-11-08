@@ -16,10 +16,10 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 11%">{{ item.date | date: '%m/%d/%Y:' }}</th>
+            {% comment %} <th scope="row" style="width: 11%">{{ item.date | date: '%m/%d/%Y:' }}</th> {% endcomment %}
             <td>
               {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                <b>{{ item.date | date: '%m/%d/%Y: ' }}</b> {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
