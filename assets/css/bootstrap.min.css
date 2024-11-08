@@ -761,6 +761,7 @@ pre code {
 .table th, .table td {
     color: #000;
     font-weight: 400;
+    background-color: #fff;
     white-space: normal; /* Allow text to wrap */
     word-wrap: break-word; /* Break long words to avoid overflow */
     padding: 8px; /* Space out text for better readability */
