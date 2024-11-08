@@ -744,6 +744,7 @@ pre code {
 .table-responsive {
     display: block;
     width: 100%;
+    color: #000;
     max-height: 300px; /* Keep this to limit the height and allow scrolling */
     overflow-x: auto; /* Allow horizontal scrolling if needed */
     overflow-y: auto; /* Maintain vertical scrolling for longer content */
@@ -757,6 +758,8 @@ pre code {
 }
 
 .table th, .table td {
+    color: #000;
+    font-weight: 400;
     white-space: normal; /* Allow text to wrap */
     word-wrap: break-word; /* Break long words to avoid overflow */
     padding: 8px; /* Space out text for better readability */
