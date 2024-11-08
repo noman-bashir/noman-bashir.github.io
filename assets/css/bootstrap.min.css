@@ -2288,6 +2288,39 @@ pre code {
     background-color: rgba(255, 255, 255, .075)
 }
 
+.table-responsive {
+    display: block;
+    width: 100%;
+    max-height: 300px; /* Keep this to limit the height and allow scrolling */
+    overflow-x: auto; /* Allow horizontal scrolling if needed */
+    overflow-y: auto; /* Maintain vertical scrolling for longer content */
+    -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+    padding: 0 2px; /* Prevent text cut-off by adding padding */
+}
+
+.table {
+    width: 100%; /* Ensure the table uses full width */
+    border-collapse: collapse; /* Reduce unnecessary spacing */
+}
+
+.table th, .table td {
+    white-space: normal; /* Allow text to wrap */
+    word-wrap: break-word; /* Break long words to avoid overflow */
+    padding: 8px; /* Space out text for better readability */
+    font-size: 16px; /* General font size for improved readability */
+}
+
+@media (max-width: 575.98px) {
+    .table th, .table td {
+        font-size: 12px; /* Smaller font size for mobile screens */
+    }
+
+    .table-responsive {
+        padding: 0 5px; /* Adjust padding on very small screens */
+    }
+}
+
+
 @media (max-width:575.98px) {
     .table-responsive-sm {
         display: block;
