@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: BuildSys 2021 -- DeepSnow; Modeling The Impact of Snow On Solar Generation
+description: 
+link: U2pITA7kbfk
 importance: 3
 category: fun
 ---

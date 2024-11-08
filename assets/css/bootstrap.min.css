@@ -4858,7 +4858,7 @@ input[type=submit].btn-block {
 .nav-fill>.nav-link {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    text-align: center
+    text-align: center,
 }
 
 .nav-justified .nav-item,
@@ -4934,7 +4934,7 @@ input[type=submit].btn-block {
 
 .navbar-nav .nav-link {
     padding-right: 0;
-    padding-left: 0
+    padding-left: 0;
 }
 
 .navbar-nav .dropdown-menu {

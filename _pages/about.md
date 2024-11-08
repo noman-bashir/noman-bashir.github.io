@@ -4,6 +4,10 @@ title: About
 permalink: /
 subtitle: Computing & Climate Impact Fellow
 
+video:
+  link: https://www.youtube.com/embed/esbLylaAFDA
+  align: center
+
 profile:
   align: left
   image: noman-close.jpg
@@ -14,7 +18,7 @@ profile:
     <p>Cambridge, MA 02142</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -32,3 +36,5 @@ Before joining UMass, I worked as a Research Assistant at the [Advanced Communic
 I did my MS in Energy Systems Engineering from [Center for Advanced Studies in Energy](https://uspcase.nust.edu.pk/about-us/nust-at-a-glance/) at [NUST](https://nust.edu.pk/), Pakistan and BS in Electrical (Power) Engineering at [UET Lahore](https://www.uet.edu.pk/), Pakistan. 
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
+
+**Job Market:** I am currently seeking tenure-track faculty positions and am excited to share my work with potential colleagues and collaborators. You can find my [Research Statement](https://noman-bashir.github.io/research_statement/) and [CV](https://noman-bashir.github.io/cv/) for a closer look at my background and contributions. Below is a 100-second elevator pitch on my research. If you're hiring or interested in learning more about my work, I’d love to connect!

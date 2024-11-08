@@ -275,6 +275,47 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+
+.video {
+  width: 80%;
+  margin-top: 4px;
+
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+.video.float-left {
+  margin-right: 1.5rem;
+  // margin-left: 8px;
+}
+
+.video.float-center {
+  margin-right: auto;
+  margin-left: auto;
+  align-content: center;
+  // margin-left: 8px;
+}
+
+@media (min-width: 576px) {
+  .video {
+    width: 80%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
