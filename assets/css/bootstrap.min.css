@@ -2292,6 +2292,7 @@ pre code {
     display: block;
     width: 100%;
     color: #000;
+    background-color: transparent;
     max-height: 300px; /* Keep this to limit the height and allow scrolling */
     overflow-x: auto; /* Allow horizontal scrolling if needed */
     overflow-y: auto; /* Maintain vertical scrolling for longer content */
