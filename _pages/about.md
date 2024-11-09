@@ -4,9 +4,9 @@ title: About
 permalink: /
 subtitle: Computing & Climate Impact Fellow
 
-video:
-  link: https://www.youtube.com/embed/esbLylaAFDA
-  align: center
+# video:
+#   link: https://www.youtube.com/embed/esbLylaAFDA
+#   align: center
 
 profile:
   align: left
