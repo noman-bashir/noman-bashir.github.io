@@ -3,7 +3,7 @@ layout: project
 title: Sample Talks
 permalink: /talks/
 description: A sample of my talks over the years. Not an exhaustive list. 
-nav: true
+nav: false
 nav_order: 5
 display_categories: 
 horizontal: false
