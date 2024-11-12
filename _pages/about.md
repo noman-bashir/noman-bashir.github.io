@@ -37,4 +37,4 @@ I did my MS in Energy Systems Engineering from [Center for Advanced Studies in E
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
 
-<!-- **Job Market:** I am currently seeking tenure-track faculty positions and am excited to share my work with potential colleagues and collaborators. You can find my [Research Statement](https://noman-bashir.github.io/research_statement/) and [CV](https://noman-bashir.github.io/cv/) for a closer look at my background and contributions. Below is a 100-second elevator pitch on my research. If you're hiring or interested in learning more about my work, I'd love to connect! -->
+**Job Market:** I am currently seeking tenure-track faculty positions and am excited to share my work with potential colleagues and collaborators. You can find my [Research Statement](https://noman-bashir.github.io/research_statement/) and [CV](https://noman-bashir.github.io/cv/) for a closer look at my background and contributions. If you're hiring or interested in learning more about my work, let's talk!
