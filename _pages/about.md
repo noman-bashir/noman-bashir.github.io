@@ -22,6 +22,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+***On the Academic Job Market: I am currently seeking a tenure-track faculty position. You can take a look at my [CV](https://noman-bashir.github.io/cv/) for a closer look at my background and contributions. I am always excited to share my work with potential colleagues and collaborators. If you're hiring or interested in learning more about my work, let's talk!***
+
 I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
 
 
@@ -37,4 +39,4 @@ I did my MS in Energy Systems Engineering from [Center for Advanced Studies in E
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
 
-**Job Market:** I am currently seeking tenure-track faculty positions and am excited to share my work with potential colleagues and collaborators. You can find my [Research Statement](https://noman-bashir.github.io/research_statement/) and [CV](https://noman-bashir.github.io/cv/) for a closer look at my background and contributions. If you're hiring or interested in learning more about my work, let's talk!
+
