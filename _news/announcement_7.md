@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2018-10-22
+date: 2024-12-10
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Our paper **Learning-Augmented Competitive Algorithms for Spatiotemporal Online Allocation with Deadline Constraints** has been accepted to **ACM SIGMETRICS 2025**.

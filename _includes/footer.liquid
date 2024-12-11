@@ -1,5 +1,5 @@
 {% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
+  {% comment %} <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       &copy; Copyright {{ site.time | date: '%Y' }}
       {{ site.first_name }}
@@ -12,7 +12,7 @@
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
     </div>
-  </footer>
+  </footer> {% endcomment %}
 {% else %}
   <footer class="sticky-bottom mt-5" role="contentinfo">
     {% if site.newsletter.enabled %}

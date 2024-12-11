@@ -60,15 +60,6 @@ layout: default
   <div class="clearfix" `></div>
 
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h4>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-      </h4>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
-
       <!-- News -->
       {% if page.news and site.announcements.enabled %}
         <h4>
@@ -85,6 +76,17 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %} {% endcomment %}
+
+  <br>
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h4>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+      </h4>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
 
       <!-- Latest posts -->
       {% if site.latest_posts.enabled %}
