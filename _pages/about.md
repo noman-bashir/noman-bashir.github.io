@@ -22,7 +22,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-***On the ACADEMIC JOB MARKET: I am currently seeking a tenure-track faculty position. You can take a look at my [CV](https://noman-bashir.github.io/cv/) and [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf) for a closer look at my background and contributions. You can also access my [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf) and [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf). I am always excited to share my work with potential colleagues and collaborators. If your department is hiring or if you are interested in learning more about my work, let's talk!***
+
+`On the ACADEMIC JOB MARKET: I am currently seeking a tenure-track faculty position. You can take a look at my `[CV](https://noman-bashir.github.io/cv/) `and` [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf)` for a closer look at my background and contributions. You can also access my `[Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf) `and` [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf). `I am always excited to share my work with potential colleagues and collaborators. If your department is hiring or if you are interested in learning more about my work, let's talk!`
+
 
 I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
 
