@@ -36,7 +36,7 @@ One of [my solutions](https://research.google/pubs/take-it-to-the-limit-peak-pre
 
 Before joining MIT, I was at [UMass Amherst](https://www.umass.edu/) for 7+ years working with [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/) as a postdoc and completing my PhD in Computer Engineering (2022) at the [Sustainable Computing Lab](https://www.sustainablecomputinglab.io/) with [David Irwin](https://www.davidirwin.info/). During my PhD, I worked as a Student Researcher on [Google's Borg Scheduler](https://research.google/research-areas/distributed-systems-and-parallel-computing/) mentored by [Nan Deng](https://research.google/people/106970/) and [Krzysztof Rządca](https://www.mimuw.edu.pl/~krzadca/). I also worked at [VMWare Research Group](https://research.vmware.com/) on Computing Sustainability Benchmarking. 
 
-Before joining UMass, I worked as a Research Assistant at the [Advanced Communication Lab](https://adcom.lums.edu.pk/) at [LUMS](https://lums.edu.pk/), Pakistan, and Systems & Networks Lab at [NUCES-NU](https://www.nu.edu.pk/), Pakistan. 
+Before joining UMass, I worked as a Research Assistant at the Advanced Communication Lab at [LUMS](https://lums.edu.pk/), Pakistan, and Systems & Networks Lab at [NUCES-NU](https://www.nu.edu.pk/), Pakistan. 
 I did my MS in Energy Systems Engineering from [Center for Advanced Studies in Energy](https://uspcase.nust.edu.pk/about-us/nust-at-a-glance/) at [NUST](https://nust.edu.pk/), Pakistan and BS in Electrical (Power) Engineering at [UET Lahore](https://www.uet.edu.pk/), Pakistan. 
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
