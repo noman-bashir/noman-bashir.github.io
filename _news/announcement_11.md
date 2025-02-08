@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Over the next two months, I will give talks at UW-Madison, Duke, and U Waterloo on "Designing the Next Generation of Computer Systems for Sustainable AI". 
+I will give a talk on "Designing the Next Generation of Computer Systems for Sustainable AI" at **UW-Madison ECE Rising Star Seminar** on 02/27/2025. 
