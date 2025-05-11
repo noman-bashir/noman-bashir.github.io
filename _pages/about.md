@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[CV](https://noman-bashir.github.io/cv/), [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf).
+<!-- [CV](https://noman-bashir.github.io/cv/), [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf). -->
 
 I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
 
