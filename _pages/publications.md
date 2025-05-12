@@ -7,16 +7,31 @@ nav: true
 nav_order: 2
 ---
 
-I broadly categorize my work into four areas: (i) energy- and resource-efficient computer systems, (ii) energy systems, (iii) sustainable computing, and (iv) societal systems. A unifying theme across these domains is the design of sustainable, efficient, and reliable applications on top of inherently unreliable system and resource dynamics under real-world constraints. 
+I broadly categorize my work into four areas: (i) sustainable computing, (ii) energy- and resource-efficient computer systems, (iii) societal systems, and (iii) energy systems. A unifying theme across these domains is the design of sustainable, efficient, and reliable applications on top of inherently unreliable system and resource dynamics under real-world constraints. 
 
 My research has been published in leading venues across computer systems and energy systems, including ASPLOS, EuroSys, SIGMETRICS/Performance, SoCC, SC, ICML, e-Energy, BuildSys, and HotCarbon.
 
-
+<h4><strong>Sustainable Computing</strong></h4>
+<i>This work positions carbon footprint as a first-class metric in the design and operation of computer systems. It spans vision papers exploring what sustainability means for computing, metrics research on how to quantify and attribute carbon emissions, theoretical advances in designing algorithms for carbon-aware optimization, and systems work that develops the abstractions and infrastructure needed to deploy these optimizations.</i>
+<div class="publications">
+  {% bibliography --group_by none --query @*[area=1]* %}
+</div>
 
 <h4><strong>Energy- and Resource-Efficient Computer Systems</strong></h4>
 <i>This body of work addresses core computer systems challenges, focusing on improving energy and resource efficiency across the computing stack—from edge devices to on-premise infrastructure to the cloud. It adopts both the user’s and the cloud operator’s perspectives, with a central theme of navigating trade-offs between performance metrics and the energy or resources required to achieve them.</i>
 <div class="publications">
   {% bibliography --group_by none --query @*[area=2]* %}
+</div>
+
+
+
+
+<h4><strong>Decarbonizing Societal-Scale  Systems</strong></h4>
+<i>
+This work aims to accelerate the decarbonization of key societal sectors—including the electric grid, residential buildings, and transportation—through data-driven optimization, incentive design, and algorithmic innovation. A central focus is ensuring that decarbonization efforts are implemented in an equitable and fair manner.
+</i>
+<div class="publications">
+  {% bibliography --group_by none --query @*[area=3]* %}
 </div>
 
 <h4><strong>Energy Systems</strong></h4>
@@ -29,19 +44,6 @@ My research has been published in leading venues across computer systems and ene
 
 <!-- <div class="publications"> -->
 
-<h4><strong>Sustainable Computing</strong></h4>
-<i>This work positions carbon footprint as a first-class metric in the design and operation of computer systems. It spans vision papers exploring what sustainability means for computing, metrics research on how to quantify and attribute carbon emissions, theoretical advances in designing algorithms for carbon-aware optimization, and systems work that develops the abstractions and infrastructure needed to deploy these optimizations.</i>
-<div class="publications">
-  {% bibliography --group_by none --query @*[area=1]* %}
-</div>
 
-
-<h4><strong>Decarbonizing Societal-Scale  Systems</strong></h4>
-<i>
-This work aims to accelerate the decarbonization of key societal sectors—including the electric grid, residential buildings, and transportation—through data-driven optimization, incentive design, and algorithmic innovation. A central focus is ensuring that decarbonization efforts are implemented in an equitable and fair manner.
-</i>
-<div class="publications">
-  {% bibliography --group_by none --query @*[area=3]* %}
-</div>
 
 
