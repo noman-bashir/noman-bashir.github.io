@@ -23,9 +23,6 @@ My research has been published in leading venues across computer systems and ene
   {% bibliography --group_by none --query @*[area=2]* %}
 </div>
 
-
-
-
 <h4><strong>Decarbonizing Societal-Scale  Systems</strong></h4>
 <i>
 This work aims to accelerate the decarbonization of key societal sectors—including the electric grid, residential buildings, and transportation—through data-driven optimization, incentive design, and algorithmic innovation. A central focus is ensuring that decarbonization efforts are implemented in an equitable and fair manner.
