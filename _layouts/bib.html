@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<span class="title">"{{ entry.title }},"</span>
+
+<span class="author">
+  {%- assign authors = entry.author_array -%}
+  {%- assign last_index = authors | size | minus: 1 -%}
+
+  {%- for author in authors -%}
+    {%- assign full_name = author.first | append: " " | append: author.last -%}
+
+    {%- if forloop.index0 == last_index and last_index != 0 -%}
+      and {{ full_name }},
+    {%- else -%}
+      {{ full_name }}{% if forloop.index0 < last_index -%}, {% endif %}
+    {%- endif -%}
+  {%- endfor -%}
+</span>
+
+<span class="entrytype">
+    {% if entry.journal %}{{ entry.journal }},
+    {% elsif entry.booktitle %}{{ entry.booktitle }},
+    {% elsif entry.school %}{{ entry.school }},{% endif %}
+    {% if entry.year %} {{ entry.year }}{% endif %}
+</span>
+
+<div class="links">
+    {% if entry.pdf %}
+    <a href="{{ entry.pdf | relative_url }}" class="btn">PDF</a>
+    {% endif %}
+    {% if entry.slides %}
+    <a href="{{ entry.slides | relative_url }}" class="btn">Slides</a>
+    {% endif %}
+    {% if entry.video %}
+    <a href="{{ entry.video }}" class="btn">Video</a>
+    {% endif %}
+    {% if entry.code %}
+    <a href="{{ entry.code }}" class="btn">Code</a>
+    {% endif %}
+    {% if entry.poster %}
+    <a href="{{ entry.poster }}" class="btn">Poster</a>
+    {% endif %}
+    {% if entry.bibtex_show %}
+    <a href="{{ entry.bib_url }}" class="btn">Bib</a>
+    {% endif %}
+</div>

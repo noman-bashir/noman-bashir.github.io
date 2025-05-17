@@ -1,28 +1,13 @@
 ---
-layout: about
-title: About
 permalink: /
-subtitle: Computing & Climate Impact Fellow
-
-# video:
-#   link: https://www.youtube.com/embed/esbLylaAFDA
-#   align: center
-
-profile:
-  align: left
-  image: noman-close.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>NE36 - 7100,</p>
-    <p>105 Broadway St,</p>
-    <p>Cambridge, MA 02142</p>
-
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-<!-- [CV](https://noman-bashir.github.io/cv/), [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf). -->
+<!-- [CV](https://noman-bashir.github.io/cv/), [Research Statement](https://noman-bashir.github.io/files/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/files/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/files/diversity_statement.pdf). -->
 
 I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
 
@@ -38,5 +23,3 @@ One of [my solutions](https://research.google/pubs/take-it-to-the-limit-peak-pre
 I did my MS in Energy Systems Engineering from [Center for Advanced Studies in Energy](https://uspcase.nust.edu.pk/about-us/nust-at-a-glance/) at [NUST](https://nust.edu.pk/), Pakistan and BS in Electrical (Power) Engineering at [UET Lahore](https://www.uet.edu.pk/), Pakistan. 
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
-
-
