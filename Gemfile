@@ -11,8 +11,6 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
   gem 'jekyll-scholar'
   gem 'kramdown-parser-gfm'
-  gem 'classifier-reborn'
-
 end
 
 # gem 'github-pages'
