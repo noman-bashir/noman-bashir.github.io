@@ -726,3 +726,226 @@
  .ai-inverse {
      color: #fff;
  }
+
+ .pub-authors {
+  color: #444;
+  font-size: 0.95em;
+}
+
+.pub-links a {
+  margin-right: 12px;
+  font-size: 0.9em;
+}
+
+.publications {
+  margin-top: 1rem;
+  text-align: justify;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.publications h1 {
+  color: red;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.publications h2 {
+  margin-bottom: 1rem;
+}
+
+.publications h2 span {
+  font-size: 1.5rem;
+}
+
+.publications h2.bibliography {
+  color: grey;
+  padding-top: 0rem;
+  margin-top: 0rem;
+}
+
+.publications ol.bibliography {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.publications ol.bibliography li {
+  margin-bottom: 0.5rem;
+}
+
+.publications ol.bibliography li .preview {
+  margin-right: 6px;
+  padding-right: 6px;
+}
+
+.publications ol.bibliography li .abbr {
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  padding-right: 6px;
+}
+
+.publications ol.bibliography li .abbr abbr {
+  display: inline-block;
+  background-color: red;
+  /* color: red !important; */
+  color: white;
+  margin-bottom: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.publications ol.bibliography li .abbr abbr a {
+  color: black;
+}
+
+.publications ol.bibliography li .abbr abbr a:hover {
+  text-decoration: none;
+}
+
+.publications ol.bibliography li .abbr .award {
+  color: red !important;
+  border: 1px solid red;
+}
+
+/* Title style */
+.publications ol.bibliography li .title {
+  font-weight: 400;
+  font-size: 1.1rem;
+  padding-right: 4px;
+  color: red;
+}
+
+.publications ol.bibliography li .year {
+  font-size: 1.1rem;
+  margin-bottom: 0.0rem;
+  padding-right: 4px;
+  display: inline-block;
+  padding-left: 2px;
+  font-weight: 400;
+}
+
+/* Entry type style */
+.publications ol.bibliography li .entrytype {
+  font-style: italic;
+  color: red;
+  margin-left: 0px; /* Adjust margin for spacing */
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-right: 0px;
+}
+
+/* Author style */
+.publications ol.bibliography li .author {
+  font-size: 1.1rem;
+  color: red;
+  padding-right: 0px;
+  font-weight: 400;
+}
+
+.publications ol.bibliography li .author a {
+  border-bottom: 1px dashed red;
+}
+
+.publications ol.bibliography li .author a:hover {
+  border-bottom-style: solid;
+  text-decoration: none;
+}
+
+.publications ol.bibliography li .author > em {
+  border-bottom: 1px solid;
+  font-style: normal;
+}
+
+.publications ol.bibliography li .links a.btn {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: black;
+  border: 1.0px solid black;
+  background-color: white;
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
+  padding-top: 0.0rem;
+  padding-bottom: 0.0rem;
+  margin-left: 0;
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  color: red;
+  border-color: rebeccapurple;
+}
+
+.publications ol.bibliography li .links a.award.btn {
+  border-color: black;
+}
+
+.publications ol.bibliography li .badges {
+  padding-bottom: 0.5rem;
+  background-color: red;
+  font-weight: 400;
+}
+
+.publications ol.bibliography li .badges span {
+  display: inline-block;
+  color: black;
+  height: 100%;
+  padding-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.publications ol.bibliography li .badges span:hover {
+  text-decoration: underline;
+}
+
+.publications ol.bibliography li .hidden {
+  font-size: 0.875rem;
+  max-height: 0px;
+  overflow: hidden;
+  text-align: justify;
+  transition-property: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -ms-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.publications ol.bibliography li .hidden p {
+  line-height: 1.4em;
+  margin: 10px;
+}
+
+.publications ol.bibliography li .hidden pre {
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 10px;
+}
+
+.publications ol.bibliography li .hidden.open {
+  max-height: 100em;
+  transition-property: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -ms-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.publications ol.bibliography li div.abstract.hidden {
+  border: dashed 1px white;
+}
+
+.publications ol.bibliography li div.abstract.hidden.open {
+  border-color: black;
+}
+
+.publications ol.bibliography div.award.hidden {
+  border: dashed 1px white;
+}
+
+.publications ol.bibliography div.award.hidden.open {
+  border-color: red;
+}
