@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 * 2026 - ACM EuroSys
+* 2025 - ACM SoCC
 * 2025 - ACM SenSys
 * 2025 - USENIX NSDI
 * 2025 - ACM e-Energy

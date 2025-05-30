@@ -8,6 +8,7 @@ date: 2025-01-01
 location: "City, Country"
 ---
 
+* IEEE Transactions on Cloud Computing
 * Journal of Systems Research
 * Energy Informatics Review
 * IEEE Transactions on Parallel and Distributed Systems
