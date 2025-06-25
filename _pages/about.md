@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-[CV](https://noman-bashir.github.io/assets/pdf/academic_cv.pdf), [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf).
 
-I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). 
+<!-- , [Research Statement](https://noman-bashir.github.io/assets/pdf/research_statement.pdf), [Teaching Statement](https://noman-bashir.github.io/assets/pdf/teaching_statement.pdf), [Diversity Statement](https://noman-bashir.github.io/assets/pdf/diversity_statement.pdf). -->
+
+I am the [Computing & Climate Impact Fellow](https://impactclimate.mit.edu/people/noman-bashir/) at [MIT Climate & Sustainability Consortium (MCSC)](https://impactclimate.mit.edu/) and a postdoc with [Christina Delimitrou](https://people.csail.mit.edu/delimitrou/Main.html) at MIT Computer Science & Artificial Intelligence Laboratory (CSAIL). My CV is available at [CV](https://noman-bashir.github.io/assets/pdf/academic_cv.pdf). 
 
 
 I work on improving the sustainability of computing and AI. I demonstrate that the status quo approach to computing sustainability, i.e., the lone focus on improving energy efficiency, is insufficient to tackle the emerging dynamics of saturating efficiency gains, exponential growth in computing demand, and electricity availability constraints. To solve this problem, I design systems, algorithms, and metrics that elevate sustainability to a first-class objective in computer system design and operation. 
@@ -23,3 +24,7 @@ One of [my solutions](https://research.google/pubs/take-it-to-the-limit-peak-pre
 I did my MS in Energy Systems Engineering from [Center for Advanced Studies in Energy](https://uspcase.nust.edu.pk/about-us/nust-at-a-glance/) at [NUST](https://nust.edu.pk/), Pakistan and BS in Electrical (Power) Engineering at [UET Lahore](https://www.uet.edu.pk/), Pakistan. 
 
 I take a huge pride academic service and was recognized as one of the top three reviewers at ACM e-Energy'23.
+
+
+If you’re **interested in knowing my thoughts on the environmental impact of AI**, please get in touch with **Molly Chase**, the Communications Manager at MIT Climate & Sustainability. You can reach out to Molly at [https://impactclimate.mit.edu/people/molly-chase/](https://impactclimate.mit.edu/people/molly-chase/). 
+
