@@ -14,6 +14,7 @@ location: "City, Country"
 * 2025 - ACM SenSys
 * 2025 - USENIX NSDI
 * 2025 - ACM e-Energy
+* 2025 - ACM BuildSys
 * 2025 - IEEE CAI
 * 2025 - IEEE IC2E
 * 2024 - ACM SoCC
